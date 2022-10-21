@@ -26,8 +26,9 @@ export class Tab1Page implements OnInit{
     /*creamos un debuger temporal
     *Hay que crearlo al principio y luego
     *se pueden poner puntos de ruptura
+    *en el navegador
     */
-    debugger;
+    //debugger;
     numero = 20,
     
     numero = numero + 10;
